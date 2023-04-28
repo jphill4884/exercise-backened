@@ -1,0 +1,16 @@
+{
+  "name": "exercise-backend",
+  "version": "1.0.0",
+  "description": "backend package for exercise app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm \"test\""
+  },
+  "author": "Kyle Phillips",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "postgresql": "^0.0.1"
+  }
+}
